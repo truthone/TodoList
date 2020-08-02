@@ -1,0 +1,82 @@
+
+header{
+   height : 150px;
+   overflow: auto;
+}
+
+#headTitle{
+  color  : #335360;
+  transform : rotate(-30deg);
+  float : left;
+  position: absolute;
+  top : 40px;
+  left : 20px;
+  margin-top : 20px;
+  font-size : 30px;
+  font-weight : bold;
+}
+
+#registerBtn{
+  text-align: center;
+  color : #20adee;
+  background: skyblue;
+  float : right;
+  padding: 10px 20px 10px 20px;
+  position: relative;
+  top:30px;
+  right: 15px;
+  font-weight : bold;
+  font-size : 20px;
+  color : white;
+}
+
+.SECTIONS{    
+	position: absolute; 
+	left : 12%; 
+}
+
+section{
+  margin-left : 15px;
+  position: relative;
+  float: right;
+  top:30px;
+  right: 15px;
+}
+
+article{
+  height: 100px;
+  width: 400px;
+  padding : 20px 15px 20px 15px;
+  margin-bottom: 13px;
+  background-color: #cee5ef;
+  overflow: auto;
+}
+
+.CardHead{
+  height: 80px;
+  width: 400px;
+  margin-bottom: 13px;
+  padding : 20px 15px 20px 15px;
+  background-color: #335360;
+  color: white;
+  font-size : 20px;
+  font-weight:bold;
+}
+
+.title{
+	font-weight:bold;
+	font-size : 30px;
+}
+
+.sub{
+  margin-top : 10px;
+  font-weight:bold;	
+  font-size : 17px;
+  color: #335360;
+  overflow : auto;
+}
+
+button{
+	float: right;
+	margin-right : 20px;
+}
